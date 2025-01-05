@@ -1,16 +1,11 @@
 Start the Appium server:  appium --port 4725
 Run your program: python main.py
 
-Mandatory ??
-Enable Developer Mode
-On Windows, go to:
-Settings → Update & Security → For Developers.
-Enable Developer Mode.
-
 
 pip install appium-python-client
 Install Appium globally:  
   npm install -g appium
+# driver it can be installed manually as well
   appium driver install --source=npm appium-windows-driver
   appium driver run windows install-wad
   pip install pywinauto
