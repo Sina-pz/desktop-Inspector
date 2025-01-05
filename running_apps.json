@@ -1,0 +1,3170 @@
+[
+    {
+        "name": "Kazem (DM) - Compass - Slack",
+        "coordinates": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 768
+        }
+    },
+    {
+        "name": "Kazem (DM) - Compass - Slack",
+        "coordinates": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 768
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 768
+        }
+    },
+    {
+        "name": "History navigation",
+        "coordinates": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 40
+        }
+    },
+    {
+        "name": "Slack",
+        "coordinates": {
+            "x": 22,
+            "y": 7,
+            "width": 26,
+            "height": 26
+        }
+    },
+    {
+        "name": "Back in history",
+        "coordinates": {
+            "x": 195,
+            "y": 7,
+            "width": 27,
+            "height": 26
+        }
+    },
+    {
+        "name": "Forward in history",
+        "coordinates": {
+            "x": 227,
+            "y": 7,
+            "width": 27,
+            "height": 26
+        }
+    },
+    {
+        "name": "Show history",
+        "coordinates": {
+            "x": 259,
+            "y": 7,
+            "width": 27,
+            "height": 26
+        }
+    },
+    {
+        "name": "Search",
+        "coordinates": {
+            "x": 298,
+            "y": 6,
+            "width": 370,
+            "height": 28
+        }
+    },
+    {
+        "name": "Help",
+        "coordinates": {
+            "x": 852,
+            "y": 7,
+            "width": 26,
+            "height": 26
+        }
+    },
+    {
+        "name": "Compass",
+        "coordinates": {
+            "x": 0,
+            "y": 40,
+            "width": 1024,
+            "height": 728
+        }
+    },
+    {
+        "name": "Switch workspaces\u2026 (Compass) ",
+        "coordinates": {
+            "x": 17,
+            "y": 48,
+            "width": 36,
+            "height": 36
+        }
+    },
+    {
+        "name": "Compass",
+        "coordinates": {
+            "x": 17,
+            "y": 48,
+            "width": 36,
+            "height": 36
+        }
+    },
+    {
+        "name": "Compass",
+        "coordinates": {
+            "x": 9,
+            "y": 101,
+            "width": 52,
+            "height": 272
+        }
+    },
+    {
+        "name": "Home",
+        "coordinates": {
+            "x": 9,
+            "y": 101,
+            "width": 52,
+            "height": 68
+        }
+    },
+    {
+        "name": "Home",
+        "coordinates": {
+            "x": 20,
+            "y": 148,
+            "width": 30,
+            "height": 13
+        }
+    },
+    {
+        "name": "DMs",
+        "coordinates": {
+            "x": 9,
+            "y": 169,
+            "width": 52,
+            "height": 68
+        }
+    },
+    {
+        "name": "DMs",
+        "coordinates": {
+            "x": 23,
+            "y": 216,
+            "width": 24,
+            "height": 13
+        }
+    },
+    {
+        "name": "Activity",
+        "coordinates": {
+            "x": 9,
+            "y": 237,
+            "width": 52,
+            "height": 68
+        }
+    },
+    {
+        "name": "Activity",
+        "coordinates": {
+            "x": 15,
+            "y": 284,
+            "width": 40,
+            "height": 13
+        }
+    },
+    {
+        "name": "More\u2026",
+        "coordinates": {
+            "x": 9,
+            "y": 305,
+            "width": 52,
+            "height": 68
+        }
+    },
+    {
+        "name": "More",
+        "coordinates": {
+            "x": 21,
+            "y": 352,
+            "width": 28,
+            "height": 13
+        }
+    },
+    {
+        "name": "Home",
+        "coordinates": {
+            "x": 70,
+            "y": 40,
+            "width": 954,
+            "height": 728
+        }
+    },
+    {
+        "name": "Actions",
+        "coordinates": {
+            "x": 70,
+            "y": 40,
+            "width": 228,
+            "height": 49
+        }
+    },
+    {
+        "name": "Compass actions",
+        "coordinates": {
+            "x": 82,
+            "y": 49,
+            "width": 108,
+            "height": 31
+        }
+    },
+    {
+        "name": "Home filter",
+        "coordinates": {
+            "x": 218,
+            "y": 46,
+            "width": 36,
+            "height": 37
+        }
+    },
+    {
+        "name": "New message",
+        "coordinates": {
+            "x": 254,
+            "y": 46,
+            "width": 36,
+            "height": 37
+        }
+    },
+    {
+        "name": "7 days left in trial",
+        "coordinates": {
+            "x": 86,
+            "y": 97,
+            "width": 196,
+            "height": 44
+        }
+    },
+    {
+        "name": "7 days left in trial",
+        "coordinates": {
+            "x": 122,
+            "y": 110,
+            "width": 115,
+            "height": 18
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 70,
+            "y": 158,
+            "width": 278,
+            "height": 606
+        }
+    },
+    {
+        "name": "Channels and direct messages",
+        "coordinates": {
+            "x": 70,
+            "y": 158,
+            "width": 228,
+            "height": 718
+        }
+    },
+    {
+        "name": "Threads",
+        "coordinates": {
+            "x": 70,
+            "y": 170,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "Threads",
+        "coordinates": {
+            "x": 118,
+            "y": 175,
+            "width": 53,
+            "height": 18
+        }
+    },
+    {
+        "name": "Huddles",
+        "coordinates": {
+            "x": 70,
+            "y": 198,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "Huddles",
+        "coordinates": {
+            "x": 118,
+            "y": 203,
+            "width": 55,
+            "height": 18
+        }
+    },
+    {
+        "name": "Drafts & sent",
+        "coordinates": {
+            "x": 70,
+            "y": 226,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "Drafts & sent",
+        "coordinates": {
+            "x": 118,
+            "y": 231,
+            "width": 88,
+            "height": 18
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 70,
+            "y": 254,
+            "width": 228,
+            "height": 12
+        }
+    },
+    {
+        "name": "Channels",
+        "coordinates": {
+            "x": 70,
+            "y": 276,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "Channels",
+        "coordinates": {
+            "x": 113,
+            "y": 276,
+            "width": 66,
+            "height": 28
+        }
+    },
+    {
+        "name": "Channels",
+        "coordinates": {
+            "x": 118,
+            "y": 281,
+            "width": 61,
+            "height": 18
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 70,
+            "y": 304,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "backend",
+        "coordinates": {
+            "x": 118,
+            "y": 309,
+            "width": 55,
+            "height": 18
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 70,
+            "y": 332,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "compasss-ai-app",
+        "coordinates": {
+            "x": 118,
+            "y": 337,
+            "width": 110,
+            "height": 18
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 70,
+            "y": 360,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "design",
+        "coordinates": {
+            "x": 118,
+            "y": 365,
+            "width": 43,
+            "height": 18
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 70,
+            "y": 388,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "front",
+        "coordinates": {
+            "x": 118,
+            "y": 393,
+            "width": 33,
+            "height": 18
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 70,
+            "y": 416,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "general",
+        "coordinates": {
+            "x": 118,
+            "y": 421,
+            "width": 49,
+            "height": 18
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 70,
+            "y": 444,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "random",
+        "coordinates": {
+            "x": 118,
+            "y": 449,
+            "width": 51,
+            "height": 18
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 70,
+            "y": 472,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "sprint_updates",
+        "coordinates": {
+            "x": 118,
+            "y": 477,
+            "width": 97,
+            "height": 18
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 70,
+            "y": 500,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "wiki",
+        "coordinates": {
+            "x": 118,
+            "y": 505,
+            "width": 27,
+            "height": 18
+        }
+    },
+    {
+        "name": "Add channels",
+        "coordinates": {
+            "x": 70,
+            "y": 528,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "Add channels",
+        "coordinates": {
+            "x": 78,
+            "y": 528,
+            "width": 212,
+            "height": 28
+        }
+    },
+    {
+        "name": "Add channels",
+        "coordinates": {
+            "x": 118,
+            "y": 533,
+            "width": 89,
+            "height": 18
+        }
+    },
+    {
+        "name": "Direct messages",
+        "coordinates": {
+            "x": 70,
+            "y": 566,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "Direct messages",
+        "coordinates": {
+            "x": 113,
+            "y": 566,
+            "width": 113,
+            "height": 28
+        }
+    },
+    {
+        "name": "Direct messages",
+        "coordinates": {
+            "x": 118,
+            "y": 571,
+            "width": 108,
+            "height": 18
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 70,
+            "y": 594,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 89,
+            "y": 597,
+            "width": 1,
+            "height": 1
+        }
+    },
+    {
+        "name": "Active, notifications snoozed",
+        "coordinates": {
+            "x": 101,
+            "y": 606,
+            "width": 16,
+            "height": 16
+        }
+    },
+    {
+        "name": "Kazem",
+        "coordinates": {
+            "x": 118,
+            "y": 599,
+            "width": 45,
+            "height": 18
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 70,
+            "y": 622,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 89,
+            "y": 625,
+            "width": 1,
+            "height": 1
+        }
+    },
+    {
+        "name": "Active, notifications snoozed",
+        "coordinates": {
+            "x": 101,
+            "y": 634,
+            "width": 16,
+            "height": 16
+        }
+    },
+    {
+        "name": "Sina",
+        "coordinates": {
+            "x": 118,
+            "y": 627,
+            "width": 28,
+            "height": 18
+        }
+    },
+    {
+        "name": "you",
+        "coordinates": {
+            "x": 153,
+            "y": 627,
+            "width": 25,
+            "height": 18
+        }
+    },
+    {
+        "name": "Invite people",
+        "coordinates": {
+            "x": 70,
+            "y": 650,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "Invite people",
+        "coordinates": {
+            "x": 118,
+            "y": 655,
+            "width": 86,
+            "height": 18
+        }
+    },
+    {
+        "name": "Recent apps",
+        "coordinates": {
+            "x": 70,
+            "y": 688,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "Apps",
+        "coordinates": {
+            "x": 113,
+            "y": 688,
+            "width": 39,
+            "height": 28
+        }
+    },
+    {
+        "name": "Apps",
+        "coordinates": {
+            "x": 118,
+            "y": 693,
+            "width": 34,
+            "height": 18
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 70,
+            "y": 716,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "Slackbot",
+        "coordinates": {
+            "x": 118,
+            "y": 721,
+            "width": 56,
+            "height": 18
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 70,
+            "y": 744,
+            "width": 228,
+            "height": 28
+        }
+    },
+    {
+        "name": "GitHub",
+        "coordinates": {
+            "x": 118,
+            "y": 749,
+            "width": 48,
+            "height": 18
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Google Drive",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Add apps",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Add apps",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 286,
+            "y": 162,
+            "width": 8,
+            "height": 512
+        }
+    },
+    {
+        "name": "Sidebar width",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Primary view actions",
+        "coordinates": {
+            "x": 298,
+            "y": 40,
+            "width": 339,
+            "height": 49
+        }
+    },
+    {
+        "name": "Kazem",
+        "coordinates": {
+            "x": 314,
+            "y": 49,
+            "width": 99,
+            "height": 31
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 316,
+            "y": 51,
+            "width": 1,
+            "height": 2
+        }
+    },
+    {
+        "name": "Active, notifications snoozed",
+        "coordinates": {
+            "x": 330,
+            "y": 62,
+            "width": 19,
+            "height": 19
+        }
+    },
+    {
+        "name": "Start huddle with Kazem",
+        "coordinates": {
+            "x": 531,
+            "y": 51,
+            "width": 36,
+            "height": 27
+        }
+    },
+    {
+        "name": "More options",
+        "coordinates": {
+            "x": 568,
+            "y": 51,
+            "width": 20,
+            "height": 27
+        }
+    },
+    {
+        "name": "More channel actions",
+        "coordinates": {
+            "x": 597,
+            "y": 50,
+            "width": 28,
+            "height": 29
+        }
+    },
+    {
+        "name": "mohammad.k.sadoughi views",
+        "coordinates": {
+            "x": 314,
+            "y": 89,
+            "width": 311,
+            "height": 38
+        }
+    },
+    {
+        "name": "Messages",
+        "coordinates": {
+            "x": 314,
+            "y": 89,
+            "width": 93,
+            "height": 38
+        }
+    },
+    {
+        "name": "Messages",
+        "coordinates": {
+            "x": 342,
+            "y": 100,
+            "width": 57,
+            "height": 16
+        }
+    },
+    {
+        "name": "Weekly sync",
+        "coordinates": {
+            "x": 410,
+            "y": 89,
+            "width": 114,
+            "height": 38
+        }
+    },
+    {
+        "name": "Weekly sync",
+        "coordinates": {
+            "x": 438,
+            "y": 99,
+            "width": 74,
+            "height": 17
+        }
+    },
+    {
+        "name": "Files",
+        "coordinates": {
+            "x": 527,
+            "y": 89,
+            "width": 63,
+            "height": 38
+        }
+    },
+    {
+        "name": "Files",
+        "coordinates": {
+            "x": 555,
+            "y": 100,
+            "width": 27,
+            "height": 16
+        }
+    },
+    {
+        "name": "Add and edit channel tabs",
+        "coordinates": {
+            "x": 593,
+            "y": 89,
+            "width": 33,
+            "height": 38
+        }
+    },
+    {
+        "name": "Canvas",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "List",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Bookmark folder",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 298,
+            "y": 119,
+            "width": 389,
+            "height": 507
+        }
+    },
+    {
+        "name": "Kazem (direct message, active)",
+        "coordinates": {
+            "x": 298,
+            "y": -1525,
+            "width": 339,
+            "height": 2152
+        }
+    },
+    {
+        "name": "Loading history\u2026",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Friday, 3 January Press enter to select a date to jump to.",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Jump to date",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Kazem",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "3 Jan at 11:18:35 AM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "11:18 AM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Most modern operating systems provide accessibility APIs to interact with and retrieve information about GUI elements. These APIs allow you to programmatically query the UI hierarchy and get metadata such as element bounds, labels, and roles.",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\t",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u2022",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\t",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "macOS",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": ": Use the ",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Accessibility API",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": " (AXUIElement) to query and interact with UI elements. Libraries like ",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "pyobjc",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": " provide Python bindings to macOS frameworks.",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\t",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u2022",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\t",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Example: Query an element\u2019s position and size via the Accessibility Inspector in macOS Developer Tools.",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\t",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u2022",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\t",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Windows",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": ": Use the ",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "UI Automation API",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": " (via tools like PyWinAuto or the Windows SDK). It allows querying and interacting with application elements.",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\t",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u2022",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\t",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Linux",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": ": Use the ",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "AT-SPI (Assistive Technology Service Provider Interface)",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": ", accessible through Python libraries like pyatspi.",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Kazem",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "3 Jan at 5:20:06 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "5:20 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Hi",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Sina",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "3 Jan at 5:20:13 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "5:20 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Hi",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "A huddle happened",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "3 Jan at 5:20:28 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "5:20 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Kazem",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "3 Jan at 5:21:52 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "5:21 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "O",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "ne sec",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Kazem",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "3 Jan at 10:05:21 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "10:05 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u0633\u06cc\u0646\u0627 \u0627\u06cc\u0646 \u062f\u0641\u0639\u0647 \u0627\u0645\u06cc\u062f\u0645 \u062e\u06cc\u0644\u06cc \u0628\u06cc\u0634\u062a\u0631\u0647\u00a0 \u06a9\u0627\u0631 \u0645\u06cc\u06a9\u06cc\u0631\u0647. \u0628\u0634\u06cc\u0646\u06cc\u0645 \u0641\u0631\u062f\u0627 \u0642\u0634\u0646\u06af \u0628\u0631\u0646\u0627\u0645\u0647 \u0628\u0686\u06cc\u0646\u06cc\u0645",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "3 Jan at 10:06:14 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "10:06",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u0628\u0628\u06cc\u0646\u06cc\u0645 \u0645\u06cc\u0634\u0647 \u062a\u0627 \u06cc\u0647 \u0647\u0641\u062a\u0647 \u0627\u06cc\u00a0 \u062f\u0633\u062a\u00a0 \u06cc\u06a9\u06cc \u062f\u0648 \u0646\u0641\u0631 \u0628\u062f\u06cc\u0645 \u0628\u0631\u0627 \u062a\u0633\u062a \u06a9\u0631\u062f\u0646",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "1 reaction, react with smiling face with tear emoji",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "smiling face with tear emoji",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "1",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Add reaction...",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Yesterday Press enter to select a date to jump to.",
+        "coordinates": {
+            "x": 298,
+            "y": 119,
+            "width": 339,
+            "height": 9
+        }
+    },
+    {
+        "name": "Jump to date",
+        "coordinates": {
+            "x": 418,
+            "y": 133,
+            "width": 99,
+            "height": 28
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Sina",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Yesterday at 3:09:15 AM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "3:09 AM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Kzem nazaret dar morede \"",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "semantic segmentation\" chiye? baraye preprocessing e desktop and runing apps",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Kazem",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Yesterday at 6:12:35 AM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "6:12 AM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Let\u2019s",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": " talk about that today. We can if we it brings value",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Sina",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Yesterday at 12:02:06 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "12:02 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u0628\u0627\u0634\u0647 \u0628\u0639\u062f \u0632\u0646\u06af\u0645 \u0627\u06af\u0647 \u0648\u0642\u062a \u062f\u0627\u0634\u062a\u06cc \u0635\u062d\u0628\u062a \u06a9\u0646\u06cc\u0645",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Kazem",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Yesterday at 12:38:10 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "12:38 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u0627\u0631\u0647\u00a0 \u0646\u062f\u0627 \u0628\u062f\u0647",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Sina",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Yesterday at 3:36:36 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "3:36 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "do you have time for call?",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Kazem",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Yesterday at 3:46:05 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "3:46 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Leila is with me now. In one hour?",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Sina",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Yesterday at 3:59:04 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "3:59 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Sure",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Kazem",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Yesterday at 5:17:08 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "5:17 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u06cc\u0647 \u0645\u0642\u062f\u0627\u0631\u06cc \u062f\u0628\u0631 \u06a9\u0631\u062f\u0645. \u0645\u0646\u062a\u0638\u0631\u0645 \u0645\u0627\u062f\u0631\u0634 \u0628\u06cc\u0627\u062f \u0648\u0642\u062a\u0645 \u0622\u0632\u0627\u062f \u0634\u0647\u00a0\u00a0\u00a0 ",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u0641\u06a9\u0631",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": " \u06a9\u0646\u0645 \u0645",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u0627\u06a9\u0632 ",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u062f\u0647 \u062f\u0642\u06cc\u0642\u0647 \u062f\u06cc\u06af\u0647 ",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u00a0",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "(edited)",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u00a0",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 298,
+            "y": 78,
+            "width": 339,
+            "height": 53
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 298,
+            "y": 78,
+            "width": 339,
+            "height": 53
+        }
+    },
+    {
+        "name": "A huddle happened",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Yesterday at 5:30:41 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "5:30 PM",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 298,
+            "y": 130,
+            "width": 339,
+            "height": 53
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 298,
+            "y": 130,
+            "width": 339,
+            "height": 53
+        }
+    },
+    {
+        "name": "A huddle happened",
+        "coordinates": {
+            "x": 362,
+            "y": 136,
+            "width": 131,
+            "height": 19
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": 492,
+            "y": 136,
+            "width": 8,
+            "height": 19
+        }
+    },
+    {
+        "name": "Yesterday at 5:32:14 PM",
+        "coordinates": {
+            "x": 500,
+            "y": 139,
+            "width": 46,
+            "height": 16
+        }
+    },
+    {
+        "name": "5:32 PM",
+        "coordinates": {
+            "x": 500,
+            "y": 139,
+            "width": 46,
+            "height": 16
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 298,
+            "y": 182,
+            "width": 339,
+            "height": 119
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 298,
+            "y": 182,
+            "width": 339,
+            "height": 119
+        }
+    },
+    {
+        "name": "Kazem",
+        "coordinates": {
+            "x": 362,
+            "y": 186,
+            "width": 47,
+            "height": 23
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": 408,
+            "y": 188,
+            "width": 8,
+            "height": 19
+        }
+    },
+    {
+        "name": "Yesterday at 7:27:41 PM",
+        "coordinates": {
+            "x": 415,
+            "y": 191,
+            "width": 47,
+            "height": 16
+        }
+    },
+    {
+        "name": "7:27 PM",
+        "coordinates": {
+            "x": 415,
+            "y": 191,
+            "width": 47,
+            "height": 16
+        }
+    },
+    {
+        "name": "I found that bug regarding the play button. It was just some thing silly in backend. I will fix it . ",
+        "coordinates": {
+            "x": 362,
+            "y": 210,
+            "width": 239,
+            "height": 63
+        }
+    },
+    {
+        "name": "Don\u2019t",
+        "coordinates": {
+            "x": 498,
+            "y": 254,
+            "width": 37,
+            "height": 19
+        }
+    },
+    {
+        "name": " worry about that one",
+        "coordinates": {
+            "x": 362,
+            "y": 254,
+            "width": 215,
+            "height": 41
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 298,
+            "y": 300,
+            "width": 339,
+            "height": 163
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 298,
+            "y": 300,
+            "width": 339,
+            "height": 163
+        }
+    },
+    {
+        "name": "Yesterday at 7:29:12 PM",
+        "coordinates": {
+            "x": 330,
+            "y": 309,
+            "width": 24,
+            "height": 16
+        }
+    },
+    {
+        "name": "7:29",
+        "coordinates": {
+            "x": 330,
+            "y": 309,
+            "width": 24,
+            "height": 16
+        }
+    },
+    {
+        "name": "Also regarding the Sina.txt hyperlink not working in UI, please ",
+        "coordinates": {
+            "x": 362,
+            "y": 306,
+            "width": 238,
+            "height": 41
+        }
+    },
+    {
+        "name": "don\u2019t",
+        "coordinates": {
+            "x": 528,
+            "y": 328,
+            "width": 35,
+            "height": 19
+        }
+    },
+    {
+        "name": " worry about that. The idea was to open up the file in windows/macs file opener. But if we have our own UI file editor component, then we can connect to that.",
+        "coordinates": {
+            "x": 362,
+            "y": 328,
+            "width": 243,
+            "height": 129
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 298,
+            "y": 462,
+            "width": 339,
+            "height": 97
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 298,
+            "y": 462,
+            "width": 339,
+            "height": 97
+        }
+    },
+    {
+        "name": "Yesterday at 7:30:18 PM",
+        "coordinates": {
+            "x": 330,
+            "y": 471,
+            "width": 24,
+            "height": 16
+        }
+    },
+    {
+        "name": "7:30",
+        "coordinates": {
+            "x": 330,
+            "y": 471,
+            "width": 24,
+            "height": 16
+        }
+    },
+    {
+        "name": "The whole chat history for tool use/results can be nicely refactored taking into account\u00a0 these new terminal and file editor components",
+        "coordinates": {
+            "x": 362,
+            "y": 468,
+            "width": 234,
+            "height": 85
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 298,
+            "y": 558,
+            "width": 339,
+            "height": 69
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 298,
+            "y": 558,
+            "width": 339,
+            "height": 53
+        }
+    },
+    {
+        "name": "Sina",
+        "coordinates": {
+            "x": 362,
+            "y": 562,
+            "width": 29,
+            "height": 23
+        }
+    },
+    {
+        "name": "\u00a0\u00a0",
+        "coordinates": {
+            "x": 390,
+            "y": 564,
+            "width": 9,
+            "height": 19
+        }
+    },
+    {
+        "name": "Yesterday at 7:49:18 PM",
+        "coordinates": {
+            "x": 398,
+            "y": 567,
+            "width": 46,
+            "height": 16
+        }
+    },
+    {
+        "name": "7:49 PM",
+        "coordinates": {
+            "x": 398,
+            "y": 567,
+            "width": 46,
+            "height": 16
+        }
+    },
+    {
+        "name": "Ok ok",
+        "coordinates": {
+            "x": 362,
+            "y": 586,
+            "width": 40,
+            "height": 19
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 625,
+            "y": 498,
+            "width": 8,
+            "height": 120
+        }
+    },
+    {
+        "name": "Kazem",
+        "coordinates": {
+            "x": 358,
+            "y": 631,
+            "width": 39,
+            "height": 16
+        }
+    },
+    {
+        "name": " has ",
+        "coordinates": {
+            "x": 396,
+            "y": 631,
+            "width": 27,
+            "height": 16
+        }
+    },
+    {
+        "name": "paused their notifications",
+        "coordinates": {
+            "x": 422,
+            "y": 631,
+            "width": 148,
+            "height": 16
+        }
+    },
+    {
+        "name": "Formatting",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "Message to Kazem",
+        "coordinates": {
+            "x": 319,
+            "y": 661,
+            "width": 297,
+            "height": 38
+        }
+    },
+    {
+        "name": "Composer actions",
+        "coordinates": {
+            "x": 319,
+            "y": 699,
+            "width": 297,
+            "height": 40
+        }
+    },
+    {
+        "name": "Attach",
+        "coordinates": {
+            "x": 327,
+            "y": 707,
+            "width": 24,
+            "height": 24
+        }
+    },
+    {
+        "name": "Show formatting",
+        "coordinates": {
+            "x": 355,
+            "y": 705,
+            "width": 28,
+            "height": 28
+        }
+    },
+    {
+        "name": "Emoji",
+        "coordinates": {
+            "x": 387,
+            "y": 705,
+            "width": 28,
+            "height": 28
+        }
+    },
+    {
+        "name": "Mention someone",
+        "coordinates": {
+            "x": 419,
+            "y": 705,
+            "width": 28,
+            "height": 28
+        }
+    },
+    {
+        "name": "More options",
+        "coordinates": {
+            "x": 451,
+            "y": 705,
+            "width": 28,
+            "height": 28
+        }
+    },
+    {
+        "name": "Send now",
+        "coordinates": {
+            "x": 554,
+            "y": 705,
+            "width": 32,
+            "height": 28
+        }
+    },
+    {
+        "name": "Schedule for later",
+        "coordinates": {
+            "x": 586,
+            "y": 705,
+            "width": 24,
+            "height": 28
+        }
+    },
+    {
+        "name": "Mohammad Kazem Sadoughi profile",
+        "coordinates": {
+            "x": 637,
+            "y": 40,
+            "width": 383,
+            "height": 724
+        }
+    },
+    {
+        "name": "Secondary view actions",
+        "coordinates": {
+            "x": 637,
+            "y": 40,
+            "width": 383,
+            "height": 49
+        }
+    },
+    {
+        "name": "Profile",
+        "coordinates": {
+            "x": 653,
+            "y": 53,
+            "width": 54,
+            "height": 23
+        }
+    },
+    {
+        "name": "Close",
+        "coordinates": {
+            "x": 972,
+            "y": 46,
+            "width": 36,
+            "height": 37
+        }
+    },
+    {
+        "name": "Profile photo for Kazem",
+        "coordinates": {
+            "x": 700,
+            "y": 105,
+            "width": 257,
+            "height": 256
+        }
+    },
+    {
+        "name": "Mohammad Kazem Sadoughi",
+        "coordinates": {
+            "x": 653,
+            "y": 374,
+            "width": 289,
+            "height": 27
+        }
+    },
+    {
+        "name": "Active, notifications snoozed",
+        "coordinates": {
+            "x": 653,
+            "y": 416,
+            "width": 20,
+            "height": 21
+        }
+    },
+    {
+        "name": "12:59 AM local time",
+        "coordinates": {
+            "x": 681,
+            "y": 456,
+            "width": 134,
+            "height": 19
+        }
+    },
+    {
+        "name": "Message Mohammad Kazem Sadoughi",
+        "coordinates": {
+            "x": 653,
+            "y": 488,
+            "width": 110,
+            "height": 37
+        }
+    },
+    {
+        "name": "Message",
+        "coordinates": {
+            "x": 690,
+            "y": 497,
+            "width": 59,
+            "height": 19
+        }
+    },
+    {
+        "name": "Huddle",
+        "coordinates": {
+            "x": 770,
+            "y": 488,
+            "width": 110,
+            "height": 37
+        }
+    },
+    {
+        "name": "Huddle",
+        "coordinates": {
+            "x": 807,
+            "y": 497,
+            "width": 41,
+            "height": 19
+        }
+    },
+    {
+        "name": "Add to VIP",
+        "coordinates": {
+            "x": 887,
+            "y": 488,
+            "width": 73,
+            "height": 37
+        }
+    },
+    {
+        "name": "VIP",
+        "coordinates": {
+            "x": 922,
+            "y": 497,
+            "width": 25,
+            "height": 19
+        }
+    },
+    {
+        "name": "More",
+        "coordinates": {
+            "x": 968,
+            "y": 488,
+            "width": 36,
+            "height": 37
+        }
+    },
+    {
+        "name": "Contact information",
+        "coordinates": {
+            "x": 653,
+            "y": 559,
+            "width": 137,
+            "height": 19
+        }
+    },
+    {
+        "name": "Email address",
+        "coordinates": {
+            "x": 697,
+            "y": 596,
+            "width": 79,
+            "height": 17
+        }
+    },
+    {
+        "name": "mohammad.k.sadoughi@gmail.com (Opens in new tab)",
+        "coordinates": {
+            "x": 697,
+            "y": 615,
+            "width": 230,
+            "height": 19
+        }
+    },
+    {
+        "name": "mohammad.k.sadoughi@gmail.com",
+        "coordinates": {
+            "x": 697,
+            "y": 615,
+            "width": 230,
+            "height": 19
+        }
+    },
+    {
+        "name": "Control strip",
+        "coordinates": {
+            "x": 0,
+            "y": 656,
+            "width": 70,
+            "height": 112
+        }
+    },
+    {
+        "name": "Create new",
+        "coordinates": {
+            "x": 17,
+            "y": 656,
+            "width": 36,
+            "height": 36
+        }
+    },
+    {
+        "name": "User: Sina",
+        "coordinates": {
+            "x": 17,
+            "y": 708,
+            "width": 36,
+            "height": 36
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 16,
+            "y": 707,
+            "width": 1,
+            "height": 1
+        }
+    },
+    {
+        "name": "Active, notifications snoozed",
+        "coordinates": {
+            "x": 39,
+            "y": 730,
+            "width": 20,
+            "height": 20
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": "loading\u2026",
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": -448,
+            "y": -136,
+            "width": 0,
+            "height": 0
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 768
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 768
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 768
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 887,
+            "y": 1,
+            "width": 136,
+            "height": 38
+        }
+    },
+    {
+        "name": "Minimize",
+        "coordinates": {
+            "x": 886,
+            "y": 1,
+            "width": 45,
+            "height": 38
+        }
+    },
+    {
+        "name": "Maximize",
+        "coordinates": {
+            "x": 931,
+            "y": 1,
+            "width": 46,
+            "height": 38
+        }
+    },
+    {
+        "name": "Close",
+        "coordinates": {
+            "x": 977,
+            "y": 1,
+            "width": 46,
+            "height": 38
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 768
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 768
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 768
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 768
+        }
+    },
+    {
+        "name": null,
+        "coordinates": {
+            "x": 0,
+            "y": 0,
+            "width": 1024,
+            "height": 768
+        }
+    }
+]
